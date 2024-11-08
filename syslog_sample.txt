@@ -1,0 +1,6 @@
+Oct 24 10:15:32 localhost kernel: [INFO] System boot complete
+Oct 24 10:16:12 localhost sshd: [WARNING] Failed login attempt
+Oct 24 10:17:45 localhost kernel: [ERROR] Disk read failure
+Oct 24 10:18:32 localhost app: [INFO] User logged in
+Oct 24 10:19:02 localhost kernel: [CRITICAL] Kernel panic
+
